@@ -7,6 +7,7 @@ var Greeter = (function () {
         this.span.innerText = new Date().toUTCString();
         //pruega git remoto
         //otro comentario
+        //adfadsf
     }
     Greeter.prototype.start = function () {
         var _this = this;
