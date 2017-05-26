@@ -23,7 +23,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.css" />
+    <Content Include="App\HtmlPage1.html" />
     <Content Include="index.html" />
+    <Content Include="JavaScript.js" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
