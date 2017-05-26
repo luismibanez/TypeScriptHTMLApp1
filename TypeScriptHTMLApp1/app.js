@@ -5,7 +5,7 @@ var Greeter = (function () {
         this.span = document.createElement('span');
         this.element.appendChild(this.span);
         this.span.innerText = new Date().toUTCString();
-        //preuba
+        //pruega git remoto
     }
     Greeter.prototype.start = function () {
         var _this = this;
